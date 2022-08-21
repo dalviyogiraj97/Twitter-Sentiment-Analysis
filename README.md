@@ -2,8 +2,8 @@
 
 Models used:
 
-Logistic Regression
-TextBlob
+1. Logistic Regression
+2. TextBlob
 
 In this notebook several experiments were condtucted implementing the following models:
 
